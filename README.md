@@ -22,3 +22,5 @@ My goal is to advance in new areas and become a part of a team and IT world in g
 ![Aiogram](https://img.shields.io/badge/aiogram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/melnikovnico)
+#### P.S.
+If you interested in historical strategies such as eu4, hoi4, etc. or just want to chat, hit me up on telegram🤙 English speakers are welcome (I need practice ASAP).
